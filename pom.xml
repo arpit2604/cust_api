@@ -29,7 +29,7 @@
 						<extensions>true</extensions>
 						<configuration>
 							<cloudHubDeployment>
-								<applicationName>dev-env-hello-mule-api-imarpit1996</applicationName>
+								<applicationName>dev-env-hello-mule-apiv-imarpit1996</applicationName>
 								<environment>dev</environment>
 								<region>us-east-1</region>
 								<workers>1</workers>
@@ -58,7 +58,7 @@
 						<extensions>true</extensions>
 						<configuration>
 							<cloudHubDeployment>
-								<applicationName>test-env-hello-mule-api-imarpit1996</applicationName>
+								<applicationName>test-env-hello-mule-apiv-imarpit1996</applicationName>
 								<environment>test</environment>
 								<region>us-east-1</region>
 								<workers>1</workers>
